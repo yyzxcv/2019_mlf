@@ -1,4 +1,4 @@
-# Machine Learning Foundation Homework Assignment #1
+# Machine Learning Foundation Hw #1
 - Date: 11, 1, 2019
 
 ### Programming Language
